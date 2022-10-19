@@ -63,7 +63,7 @@ Languages
 
 ---
 
-### :fire: My Stats :
+### :fire: My Statistics :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stephenlungo&theme=dark&background=000000)](https://git.io/streak-stats)
 
