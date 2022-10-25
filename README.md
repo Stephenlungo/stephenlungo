@@ -15,13 +15,14 @@
 ---
 ### :man_technologist: About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software developer and contributing to frontend and backend for building Web Applications.
 
 - :seedling: Full Stack Software Development.
+- :seedling: Database Administration.
 
 - :zap: Big Data Exploration and Visualization with Apache Superset.
-
-- :mailbox:Contact here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-lungo-2a1005177/)
+- :zap: Anything that runs on code is mine to play with.
+- :mailbox:LinkedIn Profile: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-lungo-2a1005177/)
 
 ---
 
