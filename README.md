@@ -21,7 +21,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :seedling: Database Administration.
 
 - :zap: Big Data Exploration and Visualization with Apache Superset.
-- Business Intelligence with MS Power BI and Tablue
+- :seedling: Business Intelligence with MS Power BI and Tablue
 - :zap: Anything that runs on code is mine to play with.
 - :mailbox:LinkedIn Profile: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-lungo-2a1005177/)
 
