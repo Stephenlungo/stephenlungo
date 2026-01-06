@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Stephen Lungo 👋
 
 Software Engineer | Data Engineer
 
@@ -17,20 +17,24 @@ I build scalable software systems and reliable data pipelines, working across ba
 - Laravel 12
 
 **Data & Backend**
-- SQL (PostgreSQL, Snowflake)
+- SQL (PostgreSQL, MSSQL)
+- Data Warehousing (Snowflake, BigQuery)
 - ETL / ELT Pipelines
+- Orchestration (Prefect OSS)
+- Data Visualization (Power BI, Apache Superset)
 - APIs & System Integrations
-- Data Warehousing & Quality
+- Data Quality Assurance (Great Expectations)
 
 ---
 
 ## Focus
-- Software & data system design  
-- Automation & performance  
-- Analytics-ready data  
+- Software & Mobile Apps
+- Data Infrastructure & Pipelines 
+- Automation & Performance  
+- Data Analytics  
 
 ---
 
 ## Contact
-- LinkedIn: [your-linkedin]
-- Email: [your.email@example.com]
+- LinkedIn: [https://www.linkedin.com/in/stephen-lungo-2a1005177/]
+- Email: [stephenlungo99@gmail.com]
